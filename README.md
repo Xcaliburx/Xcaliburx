@@ -8,7 +8,7 @@ I'm a student in BINUS University currently pursuing bachelor in Computer Scienc
 
 
 ### Programming Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xcaliburx&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xcaliburx)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Xcaliburx/Xcaliburx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
