@@ -1,4 +1,5 @@
 ### Hi there 👋
+I'm a student in BINUS University currently pursuing bachelor in Computer Science. I love to learn about new technologies. Currently I'm trying to explore more about Web Development Technologies.
 
 <!--
 **Xcaliburx/Xcaliburx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
