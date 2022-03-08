@@ -10,7 +10,7 @@ I'm a student in BINUS University currently pursuing bachelor in Computer Scienc
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Xcaliburx&theme=dark)](https://git.io/streak-stats)
 
 ### Programming Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xcaliburx&langs_count=8&layout=compact&card_width=500&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Xcaliburx&langs_count=8&layout=compact&card_width=400&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Xcaliburx/Xcaliburx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
