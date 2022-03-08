@@ -3,7 +3,10 @@
 
 I'm a student in BINUS University currently pursuing bachelor in Computer Science. I love to learn about new technologies. Currently I'm trying to explore more about Web Development Technologies.
 
+### Github Stat
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xcaliburx&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 <!--
 **Xcaliburx/Xcaliburx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
